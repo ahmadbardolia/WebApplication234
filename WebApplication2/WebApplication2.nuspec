@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ToDoWebApp.Web</id>
+    <title>Ahmad Web App</title>
+    <version>1.0.0</version>
+    <authors>Ahmad H Bardolia</authors>
+    <owners>Ahmad H bardolia</owners>
+    <licenseUrl>http://cloudenabled.com</licenseUrl>
+    <projectUrl>http://cloudenabled.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A sample project</description>
+    <releaseNotes>This release contains the following changes...</releaseNotes>
+  </metadata>
+</package>
